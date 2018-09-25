@@ -1,0 +1,58 @@
+students{
+	background-color:cyan;
+	max-width:30%;
+	margin:auto;
+	font-size:20px;
+	background-image:url("download.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+student{
+	display:block;
+	padding-bottom:15px;
+	
+}
+
+USN{
+	display:block;
+	color:red;
+	font-weight:bold;
+	
+}
+name{
+	display:block;
+	
+}
+college{
+	display:block;
+	
+}
+branch{
+	display:block;
+	
+}
+year{
+	display:block;
+	
+}
+e-mail{
+	display:block;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

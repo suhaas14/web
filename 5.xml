@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="b.css"?>
+<students>
+<student>
+<USN>USN : 4VV20CS113</USN>
+<name>NAME : XYZ</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : xyz@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 4VV20CS121</USN>
+<name>NAME : abc</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : abc@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 4VV20CS071</USN>
+<name>NAME : efg</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering </branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : efg@gmail.com</e-mail>
+</student>
+</students>
